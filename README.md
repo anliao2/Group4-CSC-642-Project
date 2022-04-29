@@ -7,7 +7,7 @@ Professor Humayoun
 
 Team Members:
 | Student Name | Student Email | 
-|    :---:     |     :---:     |     :---:       |
+|    :---:     |     :---:     |  
 | Arshdeep Boparai    |   aboparai@mail.sfsu.edu           | 
 | Brian Gopez      |   bgopez@mail.sfsu.edu            |     
 | Annie Liao     |  aliao2@mail.sfsu.edu           | 
