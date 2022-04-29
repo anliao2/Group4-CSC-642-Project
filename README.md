@@ -2,9 +2,8 @@
 
 ## CSC 642-01 Spring 2022
 ## Group 4 
-## Professor Humayoun
 
-Team Members:
+## Team Members:
 | Student Name | Student Email | 
 |    :---:     |     :---:     |  
 | Arshdeep Boparai    |   aboparai@mail.sfsu.edu           | 
