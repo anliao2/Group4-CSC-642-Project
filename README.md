@@ -6,7 +6,7 @@ Spring 2022
 Professor Humayoun
 
 Team Members:
-Arshdeep Boparai 								                      
+Arshdeep Boparai
 Brian Gopez
 Annie Liao
 Anthony Nguyen
