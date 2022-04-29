@@ -1,9 +1,8 @@
 # Group4-CSC-642-Project
 
-CSC 642-01
-Group 4
-Spring 2022 
-Professor Humayoun
+##CSC 642-01 Spring 2022
+##Group 4 
+##Professor Humayoun
 
 Team Members:
 | Student Name | Student Email | 
