@@ -1,5 +1,4 @@
-# Group4-CSC-642-Project
-
+### Access App here: https://previewer.adalo.com/5cc9a051-83e2-4955-9cd3-9ad0f4f2ae3b
 ## CSC 642-01 Spring 2022
 ## Group 4 
 
